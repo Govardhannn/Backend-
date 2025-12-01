@@ -1,0 +1,12 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "this is backend-project for the yt project",
+  "license": "ISC",
+  "author": "Govardhan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
